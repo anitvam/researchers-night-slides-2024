@@ -78,7 +78,6 @@ Davide Domini, Nicolas Farabegoli, Danilo Pianini, Mirko Viroli
 
 <iframe width="100%" height="900px" loading="eager" autoplay="true" src="https://www.youtube.com/embed/qy4_3qJbLeA?si=P2jwvfj6-YR9CujO?autoplay=1" frameborder="0"></iframe>
 
-
 ---
 
 ## Una piccola dimostrazione
@@ -112,3 +111,52 @@ Abbiamo un robot speciale chiamato **leader**, che *guida* gli altri, ottenendo 
       <img width=20% src="https://user-images.githubusercontent.com/23448811/224012699-0e29f217-66fb-44e7-b86e-85f6265e695e.gif">
       <img width=20% src="https://user-images.githubusercontent.com/23448811/224012742-b765aa73-dd31-4ffb-91a3-93c06e8b2750.gif">
 </p>
+
+--- 
+
+## Chi siamo?
+
+{{% multicol %}}
+
+{{% col class="text-left" %}}
+<img src="https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=355340&IdFoto=e3a7b911" style="width:15%">
+<b>Mirko Viroli</b> - <em>Professore Ordinario</em> </br>
+
+<img src="https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=503326&IdFoto=e1c80103" style="width:15%">
+<b>Danilo Pianini</b> - <em>Professore Associato</em> </br>
+
+<img src="https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=649232&IdFoto=4ba13386" style="width:15%">
+<b>Roberto Casadei</b> - <em>Professore Associato</em> </br>
+
+<img src="https://avatars.githubusercontent.com/u/23448811?v=4" style="width:15%">
+<b>Gianluca Aguzzi</b> - <em>Post Doc</em></br>
+{{% /col %}}
+
+{{% col class="text-left" %}}
+<img src="https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=1135878&IdFoto=7e5aea53" style="width:15%">
+<b>Martina Baiardi</b> - <em>Dottoranda</em> </br>
+
+<img src="https://avatars.githubusercontent.com/u/85068744?v=4" style="width:15%">
+<b>Angela Cortecchia</b> - <em>Dottoranda</em></br>
+
+<img src="https://avatars.githubusercontent.com/u/68516023?v=4" style="width:15%">
+<b>Davide Domini</b> - <em>Dottorando</em></br>
+
+<img src="https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=1057398&IdFoto=d40837ab" style="width:15%">
+<b>Nicolas Farabegoli</b> - <em>Dottorando</em>
+
+{{% /col %}}
+
+{{% /multicol %}}
+
+--- 
+
+## Cosa facciamo?
+
+- Sistemi adattivi auto-organizzanti 
+- Intelligenza artificiale distribuita
+- Ingegneria di sistemi distribuiti complessi
+- Pervasive computing
+- Esplorazione di nuovi paradigmi e linguaggi di programmazione
+- Internet of Things
+- Edge computing
