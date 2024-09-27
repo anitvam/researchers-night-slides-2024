@@ -122,25 +122,25 @@ Abbiamo un robot speciale chiamato **leader**, che *guida* gli altri, ottenendo 
 <img src="https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=355340&IdFoto=e3a7b911" style="width:15%">
 <b>Mirko Viroli</b> - <em>Professore Ordinario</em> </br>
 
-<img src="https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=503326&IdFoto=e1c80103" style="width:15%">
-<b>Danilo Pianini</b> - <em>Professore Associato</em> </br>
-
 <img src="https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=649232&IdFoto=4ba13386" style="width:15%">
-<b>Roberto Casadei</b> - <em>Professore Associato</em> </br>
+<b>Roberto Casadei</b> - <em>Ricercatore Senior - RTD B</em> </br>
 
-<img src="https://avatars.githubusercontent.com/u/23448811?v=4" style="width:15%">
-<b>Gianluca Aguzzi</b> - <em>Post Doc</em></br>
-{{% /col %}}
-
-{{% col class="text-left" %}}
 <img src="https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=1135878&IdFoto=7e5aea53" style="width:15%">
 <b>Martina Baiardi</b> - <em>Dottoranda</em> </br>
 
-<img src="https://avatars.githubusercontent.com/u/85068744?v=4" style="width:15%">
-<b>Angela Cortecchia</b> - <em>Dottoranda</em></br>
-
 <img src="https://avatars.githubusercontent.com/u/68516023?v=4" style="width:15%">
 <b>Davide Domini</b> - <em>Dottorando</em></br>
+{{% /col %}}
+
+{{% col class="text-left" %}}
+<img src="https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=503326&IdFoto=e1c80103" style="width:15%">
+<b>Danilo Pianini</b> - <em>Ricercatore Senior - RTD B</em></br>
+
+<img src="https://avatars.githubusercontent.com/u/23448811?v=4" style="width:15%">
+<b>Gianluca Aguzzi</b> - <em>Post Doc</em></br>
+
+<img src="https://avatars.githubusercontent.com/u/85068744?v=4" style="width:15%">
+<b>Angela Cortecchia</b> - <em>Dottoranda</em></br>
 
 <img src="https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=1057398&IdFoto=d40837ab" style="width:15%">
 <b>Nicolas Farabegoli</b> - <em>Dottorando</em>
