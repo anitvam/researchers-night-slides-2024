@@ -119,30 +119,31 @@ Abbiamo un robot speciale chiamato **leader**, che *guida* gli altri, ottenendo 
 {{% multicol %}}
 
 {{% col class="text-left" %}}
-<img src="https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=355340&IdFoto=e3a7b911" style="width:15%">
+<img src="https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=355340&IdFoto=e3a7b911" style="width:15%; border-radius:10px;">
 <b>Mirko Viroli</b> - <em>Professore Ordinario</em> </br>
 
-<img src="https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=649232&IdFoto=4ba13386" style="width:15%">
+<img src="https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=649232&IdFoto=4ba13386" style="width:15%; border-radius:10px;">
 <b>Roberto Casadei</b> - <em>Ricercatore Senior - RTD B</em> </br>
 
-<img src="https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=1135878&IdFoto=7e5aea53" style="width:15%">
-<b>Martina Baiardi</b> - <em>Dottoranda</em> </br>
+<img src="https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=503326&IdFoto=e1c80103" style="width:15%; border-radius:10px;">
+<b>Danilo Pianini</b> - <em>Ricercatore Senior - RTD B</em></br>
 
-<img src="https://avatars.githubusercontent.com/u/68516023?v=4" style="width:15%">
-<b>Davide Domini</b> - <em>Dottorando</em></br>
+<img src="https://avatars.githubusercontent.com/u/23448811?v=4" style="width:15%; border-radius:10px;">
+<b>Gianluca Aguzzi</b> - <em>Post Doc</em></br>
 {{% /col %}}
 
 {{% col class="text-left" %}}
-<img src="https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=503326&IdFoto=e1c80103" style="width:15%">
-<b>Danilo Pianini</b> - <em>Ricercatore Senior - RTD B</em></br>
 
-<img src="https://avatars.githubusercontent.com/u/23448811?v=4" style="width:15%">
-<b>Gianluca Aguzzi</b> - <em>Post Doc</em></br>
+<img src="./images/marti.jpg" style="width:15%; border-radius:10px;">
+<b>Martina Baiardi</b> - <em>Dottoranda</em> </br>
 
-<img src="https://avatars.githubusercontent.com/u/85068744?v=4" style="width:15%">
+<img src="https://avatars.githubusercontent.com/u/85068744?v=4" style="width:15%; border-radius:10px;">
 <b>Angela Cortecchia</b> - <em>Dottoranda</em></br>
 
-<img src="https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=1057398&IdFoto=d40837ab" style="width:15%">
+<img src="https://avatars.githubusercontent.com/u/68516023?v=4" style="width:15%; border-radius:10px;">
+<b>Davide Domini</b> - <em>Dottorando</em></br>
+
+<img src="https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=1057398&IdFoto=d40837ab" style="width:15%; border-radius:10px;">
 <b>Nicolas Farabegoli</b> - <em>Dottorando</em>
 
 {{% /col %}}
@@ -151,6 +152,8 @@ Abbiamo un robot speciale chiamato **leader**, che *guida* gli altri, ottenendo 
 
 --- 
 
+<!-- {{% multicol %}}
+{{% col %}}
 ## Cosa facciamo?
 
 - Sistemi adattivi auto-organizzanti 
@@ -160,3 +163,38 @@ Abbiamo un robot speciale chiamato **leader**, che *guida* gli altri, ottenendo 
 - Esplorazione di nuovi paradigmi e linguaggi di programmazione
 - Internet of Things
 - Edge computing
+{{% /col %}}
+
+{{< col >}}
+<img src="./images/smartcity2.webp">
+{{< /col >}}
+
+{{% /multicol %}} -->
+
+
+{{< slide background-image="./images/smartcity.webp" background-opacity="0.45">}}
+
+<div
+style="
+position: fixed;
+/* bottom: 0;
+right: 0; */
+font-size: .3em;
+top: -500px;
+left: 50%;
+transform: translate(-50%, -50%);
+"
+></div>
+
+<div style="background-color: #EFF1ED99; border-radius: 20px; padding: 20px; max-width: 50%; margin: auto;">
+  <h2 style="margin: 0;">Cosa facciamo?</h2>
+  <ul style="padding: 0; margin: 0;">
+    <li>Sistemi adattivi auto-organizzanti</li>
+    <li>Intelligenza artificiale distribuita</li>
+    <li>Ingegneria di sistemi distribuiti complessi</li>
+    <li>Pervasive computing</li>
+    <li>Esplorazione di nuovi paradigmi e linguaggi di programmazione</li>
+    <li>Internet of Things</li>
+    <li>Edge computing</li>
+  </ul>
+</div>
